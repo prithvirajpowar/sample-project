@@ -1,3 +1,3 @@
 void main() {
-  print("sometext);
+  print("sometext");
 }
