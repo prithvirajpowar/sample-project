@@ -1,6 +1,6 @@
 void main() {
 
-  print("jenkins test hj 2");
+  print("test hj 2");
 }
 
 
