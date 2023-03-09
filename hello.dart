@@ -2,8 +2,6 @@ void main() {
 
   print("sometext");
 
-  print('prithvi branch');
-
 }
 
 
