@@ -1,8 +1,7 @@
 void main() {
 
-  print("sometext");
+  print("in main ");
 
-  print('prithvi branch');
 
 }
 
